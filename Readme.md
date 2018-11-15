@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Selector.cs](./CS/App_Code/Selector.cs) (VB: [Selector.vb](./VB/App_Code/Selector.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # How to get all editors in the container
 
 

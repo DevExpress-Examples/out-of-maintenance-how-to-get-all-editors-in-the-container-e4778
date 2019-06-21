@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to get all editors in the container
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4778/)**
+<!-- run online end -->
 
 
 <p>To achieve this, we first create a Selector class, which uses <a href="http://msdn.microsoft.com/en-us/library/ms379564(v=vs.80).aspx"><u>C# Generics</u></a> for more flexibility. The base class is defined via the 

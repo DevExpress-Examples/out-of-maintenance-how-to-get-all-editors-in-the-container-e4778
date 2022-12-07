@@ -1,7 +1,7 @@
 ﻿Imports System
 Imports System.Collections.Generic
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports System.Text
 
 Partial Public Class _Default

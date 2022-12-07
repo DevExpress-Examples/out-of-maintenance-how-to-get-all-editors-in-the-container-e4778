@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Web.UI;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 using System.Text;
 
 public partial class _Default : System.Web.UI.Page
